@@ -3,3 +3,6 @@ clang-format version 19.1.2 (https://github.com/espressif/llvm-project.git esp-1
 
 C:\Felix\Repo\Thunderstorm>where clang-format
 C:\Espressif\tools\esp-clang\esp-19.1.2_20250312\esp-clang\bin\clang-format.exe
+
+C:\Espressif\frameworks\esp-idf-v5.3.3>clang-format --version
+clang-format version 16.0.1 (https://github.com/espressif/llvm-project.git fe4f10a809705c2ddbed62145616bb9c85c499c0)
