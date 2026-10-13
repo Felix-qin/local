@@ -1,0 +1,5 @@
+C:\Felix\Repo\Thunderstorm>clang-format --version
+clang-format version 19.1.2 (https://github.com/espressif/llvm-project.git esp-19.1.2_20250312)
+
+C:\Felix\Repo\Thunderstorm>where clang-format
+C:\Espressif\tools\esp-clang\esp-19.1.2_20250312\esp-clang\bin\clang-format.exe
